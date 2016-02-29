@@ -1,0 +1,20 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HolaMundoIssue.js",
+  "scripts": {
+    "start": "node helloWorldServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOS-2016-01/sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SOS-2016-01/sandbox/issues"
+  },
+  "homepage": "https://github.com/SOS-2016-01/sandbox#readme"
+}
